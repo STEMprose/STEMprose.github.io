@@ -4,6 +4,7 @@ title: "Stempress"
 description: "Blog post by students for students"
 logo: 'assets/images/logo_sp.png'
 favicon: 'assets/images/logo_sp.png'
+url: "https://stemprose.github.io"
 baseurl: /stemprose.github.io
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
